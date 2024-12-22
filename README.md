@@ -1,3 +1,10 @@
+# Business Rules Resume
+
+This starts with a product register, then you can choose some itens for you purchase. After this you need to register, in this step you will put your custormer datas. In end you can put payment method and finalize. 
+
+This will be precessing and storage all information divided by microservices and database styles, incluided kafka stream for orders processing, and assincronous funcions.
+
+
 # Configuration
 
 ## Docker
