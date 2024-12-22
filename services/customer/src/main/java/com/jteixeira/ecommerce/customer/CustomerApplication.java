@@ -1,4 +1,4 @@
-package com.jteixeira.ecommerce;
+package com.jteixeira.ecommerce.customer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

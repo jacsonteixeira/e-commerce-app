@@ -1,5 +1,6 @@
-package com.jteixeira.ecommerce;
+package com.jteixeira.ecommerce.customer;
 
+import com.jteixeira.ecommerce.Address;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotNull;
 
