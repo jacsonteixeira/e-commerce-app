@@ -1,4 +1,4 @@
-package com.jteixeira.ecommerce.customer.exception;
+package com.jteixeira.ecommerce.exception;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;
@@ -7,6 +7,6 @@ import lombok.EqualsAndHashCode;
 @Data
 public class CustomerNotFoundException extends RuntimeException {
 
-    private final String msg;
+    private final String message;
 
 }
