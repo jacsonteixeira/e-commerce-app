@@ -1,10 +1,10 @@
-package com.jteixeira.dicovery;
+package com.jteixeira.ecommerce;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DicoveryApplicationTests {
+class ConfigServerApplicationTests {
 
 	@Test
 	void contextLoads() {

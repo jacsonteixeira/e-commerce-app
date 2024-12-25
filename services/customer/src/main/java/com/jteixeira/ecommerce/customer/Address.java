@@ -1,4 +1,4 @@
-package com.jteixeira.ecommerce;
+package com.jteixeira.ecommerce.customer;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

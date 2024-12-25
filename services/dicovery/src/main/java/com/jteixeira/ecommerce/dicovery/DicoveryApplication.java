@@ -1,4 +1,4 @@
-package com.jteixeira.dicovery;
+package com.jteixeira.ecommerce.dicovery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
