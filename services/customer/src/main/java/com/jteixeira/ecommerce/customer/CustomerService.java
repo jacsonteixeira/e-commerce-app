@@ -1,6 +1,6 @@
 package com.jteixeira.ecommerce.customer;
 
-import com.jteixeira.ecommerce.customer.exception.CustomerNotFoundException;
+import com.jteixeira.ecommerce.exception.CustomerNotFoundException;
 import lombok.RequiredArgsConstructor;
 import org.apache.commons.lang.StringUtils;
 import org.springframework.stereotype.Service;

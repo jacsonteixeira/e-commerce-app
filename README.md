@@ -32,13 +32,13 @@ Then click in add new server, type a name, and in connection section, in hostnam
 
 If you are Windows user, you need to check ip from docker image container:
 ```bash
--docker ps
+docker ps
 ```
 
 get container id from postgres image, then type:
 ```bash
- -docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' [postgress_container_id]
- ```
+docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' [postgress_container_id]
+```
 
 With this you will get ip of postgres, put in hostname/adress, let port in default, give username and password 
 configured in docker-compose, postgres section

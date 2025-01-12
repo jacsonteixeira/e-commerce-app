@@ -1,6 +1,6 @@
 package com.jteixeira.ecommerce.customer;
 
-import com.jteixeira.ecommerce.Address;
+import com.jteixeira.ecommerce.address.Address;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Getter;
