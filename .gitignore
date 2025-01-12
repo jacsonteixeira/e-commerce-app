@@ -1,4 +1,4 @@
-.idea
+.idea/
 /services/notification/.gitattributes
 /services/order/.gitattributes
 /services/payment/.gitattributes
